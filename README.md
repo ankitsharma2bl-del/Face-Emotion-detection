@@ -7,7 +7,7 @@ This project identifies emotions like Happy, Sad, Angry, Fear, Surprise, Neutral
 
 आप हमारी live deployed application यहाँ चला सकते हैं:
 
-👉 🔗 https://10.123.157.29:8501/
+👉 🔗 https://face-emotion-detection-iameglezm3zc6mrlzu4xyo.streamlit.app/
 
 Webcam open करके “Capture Photo” दबाएँ → App आपका emotion detect करके दिखाएगा।
 
